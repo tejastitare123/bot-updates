@@ -1,0 +1,9 @@
+{
+    "daily_search_goal": 8,
+    "batch_size": 1,
+    "headless": false,
+    "enable_dashboard_tasks": true,
+    "enable_app_checkin": true,
+    "enable_weather_check": true,
+    "enable_read_to_earn": true
+}
