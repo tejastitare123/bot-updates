@@ -1,8 +1,11 @@
 {
     "daily_search_goal": 8,
-    "batch_size": 1,
+    "batch_size": 8,
+    "search_delay": "5-6s",
     "headless": false,
+    "enable_daily_set": true,
     "enable_dashboard_tasks": true,
+    "enable_app_exclusive": true,
     "enable_app_checkin": true,
     "enable_weather_check": true,
     "enable_read_to_earn": true
